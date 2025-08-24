@@ -1,6 +1,6 @@
 Customer Churn Prediction with Neural Networks
 This project uses an Artificial Neural Network (ANN) to predict customer churn — whether a bank’s customer is likely to leave (churn) or stay. The model is trained on the Customer Churn Modelling dataset and enhanced with visualizations, evaluation metrics, and prediction functions.
-The main file is moreimporvednuralnetwork_improvde.ipynb file you can go through other files too which i maded to learn about nurealnetworks
+The main file is nuralnetwork.ipynb file you can go through other files too which i maded to learn about nurealnetworks
 What This Project Does:-
 This project builds and trains a Neural Network to predict customer churn — whether a bank’s customer will stay or leave.
 Takes input data from the Customer Churn Modelling dataset (customer details like credit score, geography, gender, age, balance, number of products, etc.).
